@@ -8,4 +8,5 @@ python-dotenv
 streamlit
 protobuf<5.0.0
 youtube-transcript-api
-
+pytube
+faiss-cpu
