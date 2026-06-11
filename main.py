@@ -5,7 +5,7 @@ import json
 import pandas as pd
 from dotenv import load_dotenv
 
-# --- 최신 LangChain 패키지 구조 Import ---
+# --- 최신 LangChain 패키지 구조 Import --- #
 from langchain_community.document_loaders import PyPDFLoader, YoutubeLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
